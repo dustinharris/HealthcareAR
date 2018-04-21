@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: af926a415f70848f38bb7e6fc368ee17
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -759,12 +759,12 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 48cac900-d9bf-44c1-a403-f479b207d83c
-  projectName: 
+  projectName: HealthcareAR
   organizationId: xandon-frogget
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
